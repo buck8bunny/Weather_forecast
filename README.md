@@ -2,10 +2,11 @@
 The code retrieves the user's selected city and fetches weather data from the OpenWeatherMap API
 
 <p align="center">
-      <img src="[Image alt](https://i.ibb.co/rMsZgHH/Screenshot-1.png)" >
+      <img src="[Image alt](https://i.ibb.co/rMsZgHH/Screenshot-1.png)" 
 </p>
-
-
+<p align="center">
+      ![Image alt](https://i.ibb.co/rMsZgHH/Screenshot-1.png)
+</p>
 ## About
 
 The provided code is a JavaScript function that performs the following tasks:
