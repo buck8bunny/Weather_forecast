@@ -1,7 +1,7 @@
 # Weather_forecast
 The code retrieves the user's selected city and fetches weather data from the OpenWeatherMap API  
 
-![Image alt](https://i.ibb.co/rMsZgHH/Screenshot-1.png)
+![](https://i.ibb.co/rMsZgHH/Screenshot-1.png)
 
 
 ## About
